@@ -1,0 +1,4 @@
+ExampleComponent example:
+
+```js
+<ExampleComponent />
