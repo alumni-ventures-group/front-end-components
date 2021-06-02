@@ -1,5 +1,5 @@
 {
-  "name": "front-end-components",
+  "name": "@alumni-ventures-group/front-end-components",
   "version": "1.0.0",
   "description": "front end components for react",
   "main": "rollup.config.js",
