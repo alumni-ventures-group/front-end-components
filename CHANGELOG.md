@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/alumni-ventures-group/front-end-components/compare/v1.0.0...v1.0.1) (2021-06-02)
+
+
+### Bug Fixes
+
+* **name:** update name for semantic release ([f3e2a5c](https://github.com/alumni-ventures-group/front-end-components/commit/f3e2a5c5db57cdf64be1badf01dff3e66a4b25e6))
+
 # 1.0.0 (2021-06-02)
 
 

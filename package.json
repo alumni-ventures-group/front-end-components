@@ -1,6 +1,6 @@
 {
   "name": "@alumni-ventures-group/front-end-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "front end components for react",
   "main": "rollup.config.js",
   "scripts": {
